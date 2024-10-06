@@ -56,7 +56,7 @@ nav ul li a {
 }
 .hero {
     background-color: #f2f2f2;
-    background-image: url('/build/static/assets/images/hero_bg2.jpg');
+    background-image: url('https://yashiyadav1.github.io/Microsoft/build/static/assets/images/hero_bg2.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
